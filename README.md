@@ -61,13 +61,13 @@ To run **ScholarSync**, you need Python 3.x installed on your system. Follow the
 1. **Clone or Download the Repository**
    - Clone the repository using Git:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/sitendernarwal/ScholarSync-A-School-Management-System/tree/main
      ```
    - Or download the source code as a ZIP file and extract it.
 
 2. **Navigate to the Project Directory**
    ```bash
-   cd <project-directory>
+   cd ScholarSync-A-School-Management-System
    ```
 
 3. **Run the Main Script**
@@ -301,8 +301,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries or support, please contact:
-- **Name:** [Your Name]
-- **Email:** [Your Email]
+- 🧑‍💻 **Name:** <a href="mailto:sitendermax@gmail.com"><strong>Sitender</strong></a>
+
+- **Email:** [📧 Email Me](mailto:sitendermax@gmail.com)
+
 
 ---
 
