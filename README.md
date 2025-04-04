@@ -1,0 +1,1 @@
+# ScholarSync-A-School-Management-System
