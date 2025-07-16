@@ -306,6 +306,3 @@ For inquiries or support, please contact:
 - **Email:** [📧 Email Me](mailto:sitendermax@gmail.com)
 
 
----
-
-This README provides a complete guide to understanding, installing, and using **ScholarSync**. It’s designed to be user-friendly for both developers and end-users, with detailed instructions for all roles. Let me know if you’d like to adjust anything!
